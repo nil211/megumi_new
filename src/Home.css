@@ -1,0 +1,42 @@
+.intro{
+
+    margin:20px;
+    text-align:center;
+    text-decoration-style:solid;
+    text-rendering:geometricPrecision;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Euphoria Script', cursive; 
+    font-size: 25px;
+    font-weight:inherit;
+
+}
+
+.suni{
+    margin-left: 70px;
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 100px;
+    animation-delay: 10ms;
+}
+
+.pal1{
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Euphoria Script', cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.dhlogo{
+    margin: 55px;
+    width: 400px;
+    height: 350px;
+}
+
+.sunip{
+text-align: right;
+text-shadow:magenta;
+font-family: 'Dancing Script', cursive;
+font-family: 'Euphoria Script', cursive;
+font-weight:bold;
+}
