@@ -8,13 +8,13 @@ function Navbar(){
         <div className="menubar">
         <div className="container">
     <nav className="navbar navbar-light bg-light container">
-           <h4><Link to="/home"> Home</Link></h4> 
-            <h4><Link to="/current">Course details</Link></h4>
-            <h4><Link to="/events">Events</Link></h4>
-            <h4><Link to="/faculty">Faculty</Link></h4>
-            <h4><Link to="/contactus">Contact Us</Link></h4>
-            <h4><Link to="/alumni">Alumni</Link></h4>
-            <button className="btn btn-primary btn-small">Login</button>
+           <h4><Link to="/home"> <span><b>Home</b></span></Link></h4> 
+            <h4><Link to="/current"> <span><b>Course details</b></span></Link></h4>
+            <h4><Link to="/events"> <span><b>Events</b></span></Link></h4>
+            <h4><Link to="/faculty"> <span><b>Gallery</b></span></Link></h4>
+            <h4><Link to="/contactus"> <span><b>Contact Us</b></span></Link></h4>
+            <h4><Link to="/alumni"> <span><b>Alumni</b></span></Link></h4>
+            
         </nav>
         </div>  
         </div>

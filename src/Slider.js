@@ -1,9 +1,9 @@
 //import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/react-bootstrap';
 import { Carousel } from 'react-bootstrap';
-import img1 from '../src/assets/grp2_theme1.jpeg';
-import img3 from '../src/assets/grp1_theme2.jpeg';
-import img2 from '../src/assets/grp1_themes3.jpeg';
+import img1 from '../src/assets/stagesongcontest2018.jpeg';
+import img3 from '../src/assets/trophy.jpeg';
+import img2 from '../src/assets/senbonzakura2016.jpeg';
 require('popper.js');
 //global.jQuery= require('jquery');
 
